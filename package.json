@@ -1,0 +1,11 @@
+{
+  "name": "bullmq-cli",
+  "packageManager": "yarn@4.3.1",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "bullmq": "^5.29.1"
+  },
+  "devDependencies": {
+    "@types/blessed": "^0.1.25"
+  }
+}
